@@ -18,12 +18,11 @@ This repository contains the source code and documentation for a digital impleme
 - Database: MySQL
 
 ## Setup and Installation
-To set up and run the Uno Game Application locally, follow these steps:
+To set up and run the Uno Game  locally, follow these steps:
 
 1. Clone the repository: `git clone [repository URL]`
-2. Configure any required API keys or environment variables.
-3. Build and run the application using the appropriate commands.
-4. Access the application in your web browser or mobile device.
+2. Build and run the application using the appropriate commands.
+3. Access the application in your web browser or mobile device.
 
 ## Contribution Guidelines
 If you would like to contribute to this project, please follow the guidelines below:
@@ -33,8 +32,6 @@ If you would like to contribute to this project, please follow the guidelines be
 3. Commit your changes and provide a descriptive commit message.
 4. Push your branch to your forked repository.
 5. Submit a pull request with a detailed explanation of your changes.
-
-
 
 ## Contact
 For any inquiries or feedback, please contact harrisimran78@gmail.com .
