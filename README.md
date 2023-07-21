@@ -1,7 +1,8 @@
 # UNO-game
 
 ## Overview
-This repository contains the source code and documentation for a digital implementation of the popular card game Uno.
+Uno is a card game in which players attempt to remove all cards from their hands by discarding them. Each player starts the round with 7 random cards in their hand.  During a player's turn, he/she attempts to discard a card by matching it to the last-discarded card, either by playing a card with the same color, the same face value, or by playing a wild card.
+
 
 ## Display
 - ![image](https://github.com/Harris730/UNO-game/assets/128912747/181ca491-976f-4e85-88ca-b0df3ea1e027)
@@ -10,7 +11,6 @@ This repository contains the source code and documentation for a digital impleme
 - ![image](https://github.com/Harris730/UNO-game/assets/128912747/143e7c3e-fbf3-4b27-a16c-a4397ef28d53)
 - ![image](https://github.com/Harris730/UNO-game/assets/128912747/c67f9e0e-ae36-4f79-b3bb-224d765d40bd)
   
-
 ## Features
 - Single Player Mode: Play against computer-controlled opponents for practice or entertainment.
 - Multiplayer Mode: Play with friends or other online players in real-time.
