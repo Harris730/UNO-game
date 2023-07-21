@@ -34,8 +34,7 @@ If you would like to contribute to this project, please follow the guidelines be
 4. Push your branch to your forked repository.
 5. Submit a pull request with a detailed explanation of your changes.
 
-## License
-[Specify the license under which the project is distributed, e.g., MIT License]
+
 
 ## Contact
 For any inquiries or feedback, please contact harrisimran78@gmail.com .
