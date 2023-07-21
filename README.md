@@ -27,7 +27,7 @@ To set up and run the Uno Game  locally, follow these steps:
 
 1. Clone the repository: `https://github.com/Harris730/UNO-game.git`
 2. Build and run the application using the appropriate commands.
-3. Access the application in your web browser or mobile device.
+3. Access the application in your desktop.
 
 ## Contribution Guidelines
 If you would like to contribute to this project, please follow the guidelines below:
