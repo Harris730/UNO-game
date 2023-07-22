@@ -1,7 +1,7 @@
 # UNO-game
 
 ## Overview
-Uno is a card game in which players attempt to remove all cards from their hands by discarding them. Each player starts the round with 7 random cards in their hand.  During a player's turn, he/she attempts to discard a card by matching it to the last-discarded card, either by playing a card with the same color, the same face value, or by playing a wild card.
+Uno is a card game in which players attempt to remove all cards from their hands by discarding them. Each player starts the round with 7 random cards in their hand.During a player's turn, he/she attempts to discard a card by matching it to the last-discarded card, either by playing a card with the same color, the same face value, or by playing a wild card.
 
 
 ## Display
