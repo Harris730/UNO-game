@@ -13,11 +13,10 @@ Uno is a card game in which players attempt to remove all cards from their hands
   
 ## Features
 - Single Player Mode: Play against computer-controlled opponents for practice or entertainment.
-- Multiplayer Mode: Play with friends or other online players in real-time.
+- Multiplayer Mode: Two people can play turn by turn on same system.
 - Customizable Rules: Customize the game rules to match your preferences or play the classic Uno rules.
 - Interactive Gameplay: Experience dynamic gameplay with intuitive card dragging and dropping, special card effects, and Uno callouts.
 - Leaderboards: Compete with other players and track your progress on the global leaderboards.
-- Achievements: Unlock achievements as you progress and accomplish specific milestones in the game.
 - Sound Effects and Visuals: Enjoy engaging sound effects and visually appealing graphics to enhance your gaming experience.
 
 ## Technologies Used
